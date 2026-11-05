@@ -65,7 +65,7 @@ No verifiqué en línea los requisitos actuales de cada proveedor; los de arriba
 
 Cuatro fases del 10 de noviembre de 2026 al 13 de febrero de 2027. No se pasa de fase sin cumplir la condición del rombo; si la constitución se retrasa, todo el plan se recorre igual.
 
-> El diagrama de las 4 fases y sus 3 condiciones de paso está en el [PDF](Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf).
+> El diagrama de las 4 fases y sus 3 condiciones de paso está en el [PDF](../pdfs/roadmap-y-relaciones/Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf).
 
 Del 20 de diciembre al 4 de enero el equipo baja el ritmo, pero es temporada alta: ahí la prioridad es atender a los grupos que ya reservaron.
 
