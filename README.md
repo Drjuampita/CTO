@@ -15,10 +15,23 @@ OTA de viajes grupales para México: cada viajero pone su tarjeta y se cobra sol
 
 | Documento | Qué contiene |
 | --- | --- |
-| [Roadmap de relaciones al 15 de diciembre](cpo/Grupey-Roadmap-Relaciones-15dic.pdf) (PDF) | Plan de 5 semanas (10 nov al 15 dic de 2026) para cerrar proveedor mayorista, hoteles y aliados. Metas, plan semana por semana, rutina diaria, preguntas para proveedores y el bloque de constitución. |
-| [CPO: funciones y roadmap de 90 días](cpo/CPO-Funciones-y-Roadmap-90-dias.md) ([PDF](cpo/Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf)) | Funciones del CPO aterrizadas a Grupey, plan de migración de proveedor, roadmap de 4 fases (10 nov 2026 al 13 feb 2027), rutina, relaciones, modelo de negocio, promociones, KPIs y preguntas abiertas. |
-| [Requisitos legales para operar como OTA](cpo/Grupey-Requisitos-Legales-OTA.pdf) (PDF) | Checklist priorizado de 16 requisitos (SAT, ISH, RNT, NOM-010-TUR, PROFECO, datos personales, PCI, marca) y lo que piden los mayoristas para dar de alta. Asume México. |
-| [Holding, impuestos y empleados](cpo/Grupey-Holding-Impuestos-Empleados.pdf) (PDF) | Análisis de la estructura holding extranjera + SAPI sin empleados en México: doble tributación, IMSS, opciones de estructura y cómo pagar a los fundadores. |
+| [Roadmap de relaciones al 15 de diciembre](pdfs/roadmap-y-relaciones/Grupey-Roadmap-Relaciones-15dic.pdf) (PDF) | Plan de 5 semanas (10 nov al 15 dic de 2026) para cerrar proveedor mayorista, hoteles y aliados. Metas, plan semana por semana, rutina diaria, preguntas para proveedores y el bloque de constitución. |
+| [CPO: funciones y roadmap de 90 días](cpo/CPO-Funciones-y-Roadmap-90-dias.md) ([PDF](pdfs/roadmap-y-relaciones/Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf)) | Funciones del CPO aterrizadas a Grupey, plan de migración de proveedor, roadmap de 4 fases (10 nov 2026 al 13 feb 2027), rutina, relaciones, modelo de negocio, promociones, KPIs y preguntas abiertas. |
+| [Requisitos legales para operar como OTA](pdfs/legal-y-estructura/Grupey-Requisitos-Legales-OTA.pdf) (PDF) | Checklist priorizado de 16 requisitos (SAT, ISH, RNT, NOM-010-TUR, PROFECO, datos personales, PCI, marca) y lo que piden los mayoristas para dar de alta. Asume México. |
+| [Holding, impuestos y empleados](pdfs/legal-y-estructura/Grupey-Holding-Impuestos-Empleados.pdf) (PDF) | Análisis de la estructura holding extranjera + SAPI sin empleados en México: doble tributación, IMSS, opciones de estructura y cómo pagar a los fundadores. |
+
+## Apartado de PDFs
+
+Todos los PDFs viven en [`pdfs/`](pdfs/), separados por tema:
+
+- **[Roadmap y relaciones](pdfs/roadmap-y-relaciones/)**
+  - [Roadmap de relaciones al 15 de diciembre](pdfs/roadmap-y-relaciones/Grupey-Roadmap-Relaciones-15dic.pdf)
+  - [CPO: funciones y roadmap de 90 días](pdfs/roadmap-y-relaciones/Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf)
+- **[Legal y estructura](pdfs/legal-y-estructura/)**
+  - [Requisitos legales para operar como OTA](pdfs/legal-y-estructura/Grupey-Requisitos-Legales-OTA.pdf)
+  - [Holding, impuestos y empleados](pdfs/legal-y-estructura/Grupey-Holding-Impuestos-Empleados.pdf)
+
+Los documentos editables en markdown siguen en [`cpo/`](cpo/).
 
 ## Foco actual: relaciones al 15 de diciembre
 
