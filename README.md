@@ -2,6 +2,24 @@
 
 Funciones personales de desarrollo de producto para Grupey. Lo más importante es el roadmap para establecer relaciones con proveedores, propuestas de producto y ejecución efectiva.
 
+## Funciones de un CPO en Grupey
+
+Un CPO decide qué se construye, para quién y por qué, y responde por que el producto genere negocio. En una startup de viajes de tres personas eso incluye la relación con proveedores e inventario, porque el inventario es parte del producto.
+
+| Función | Qué significa en general | Cómo se ve en Grupey hoy |
+| --- | --- | --- |
+| Visión y estrategia de producto | Definir hacia dónde va el producto y qué problema resuelve mejor que nadie | "Viajar en grupo sin pelear por el dinero": lo que no sirva a eso queda fuera del roadmap |
+| Roadmap y priorización | Decidir qué se hace primero y a qué se dice que no | Ordenar: lanzamiento, migración de proveedor, políticas de cancelación grupal, promociones |
+| Descubrimiento con usuarios | Hablar con usuarios cada semana y validar antes de construir | Entrevistar organizadores de viajes y ver dónde se atora el grupo al poner tarjetas |
+| Estrategia de inventario y proveedores | En una OTA, el proveedor define precio, cobertura y márgenes | Llevar la migración de LiteAPI a TNL, Expedia o Hotelbeds y abrir contratos directos con hoteles |
+| Modelo de negocio y precios | Definir cómo gana dinero cada reserva | Markup sobre tarifa neta, costo de meses sin intereses, comisiones de pasarela |
+| Métricas | Elegir pocas métricas y revisarlas cada semana | Grupos creados, grupos completados, tiempo para completar, margen por reserva |
+| Experiencia y confianza | Cuidar que el producto sea fácil y seguro | Resolver "¿qué pasa si alguien cancela?" y "¿qué pasa si alguien se baja antes del cobro?" |
+| Alineación del equipo | Que CTO, finanzas y marketing trabajen sobre las mismas prioridades | Revisión semanal con el CTO y Báez, y un brief claro para la agencia de marketing |
+| Cumplimiento | Asegurar que el producto pueda operar legalmente | Constitución, RNT de Sectur, aviso de privacidad, términos de cancelación y PROFECO |
+
+**Lo que no le toca al CPO:** escribir el código de la integración (CTO) ni llevar la contabilidad (Báez). Sí le toca decidir qué se integra primero y qué margen necesita cada reserva.
+
 ## Qué es Grupey
 
 OTA de viajes grupales para México: cada viajero pone su tarjeta y se cobra solo cuando el grupo está completo, con meses sin intereses. Ticket de 14,000 a 28,000 MXN por persona (3 a 5 noches). Primer destino: Cancún y Riviera Maya.
