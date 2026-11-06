@@ -37,6 +37,7 @@ OTA de viajes grupales para México: cada viajero pone su tarjeta y se cobra sol
 | [CPO: funciones y roadmap de 90 días](cpo/CPO-Funciones-y-Roadmap-90-dias.md) ([PDF](pdfs/roadmap-y-relaciones/Grupey-CPO-Funciones-y-Roadmap-90-dias.pdf)) | Funciones del CPO aterrizadas a Grupey, plan de migración de proveedor, roadmap de 4 fases (10 nov 2026 al 13 feb 2027), rutina, relaciones, modelo de negocio, promociones, KPIs y preguntas abiertas. |
 | [Requisitos legales para operar como OTA](pdfs/legal-y-estructura/Grupey-Requisitos-Legales-OTA.pdf) (PDF) | Checklist priorizado de 16 requisitos (SAT, ISH, RNT, NOM-010-TUR, PROFECO, datos personales, PCI, marca) y lo que piden los mayoristas para dar de alta. Asume México. |
 | [Holding, impuestos y empleados](pdfs/legal-y-estructura/Grupey-Holding-Impuestos-Empleados.pdf) (PDF) | Análisis de la estructura holding extranjera + SAPI sin empleados en México: doble tributación, IMSS, opciones de estructura y cómo pagar a los fundadores. |
+| [Kit de redes sociales](cpo/Kit-Redes-Sociales.md) ([PDF](pdfs/redes-sociales/Grupey-Kit-Redes-Sociales.pdf)) | Perfiles listos para copiar de Instagram, TikTok y LinkedIn (bio, nombre, foto, destacadas, página de empresa), primeras 9 publicaciones, 6 guiones de TikTok, 3 posts de LinkedIn y calendario del 10 al 21 de noviembre. |
 
 ## Apartado de PDFs
 
@@ -48,6 +49,8 @@ Todos los PDFs viven en [`pdfs/`](pdfs/), separados por tema:
 - **[Legal y estructura](pdfs/legal-y-estructura/)**
   - [Requisitos legales para operar como OTA](pdfs/legal-y-estructura/Grupey-Requisitos-Legales-OTA.pdf)
   - [Holding, impuestos y empleados](pdfs/legal-y-estructura/Grupey-Holding-Impuestos-Empleados.pdf)
+- **[Redes sociales](pdfs/redes-sociales/)**
+  - [Kit de redes sociales: Instagram, TikTok y LinkedIn](pdfs/redes-sociales/Grupey-Kit-Redes-Sociales.pdf)
 
 Los documentos editables en markdown siguen en [`cpo/`](cpo/).
 
